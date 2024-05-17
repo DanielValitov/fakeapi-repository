@@ -1,19 +1,17 @@
 {
-  "people": [
-  {
-  "name": "John",
-  "age": 30,
-  "city": "New York"
+  "title": "Преступление и наказание",
+  "author": "Фёдор Достоевский",
+  "published_year": 1866,
+  "genres": ["Роман", "Психологическая драма"],
+  "available_formats": {
+    "hardcover": true,
+    "paperback": true,
+    "ebook": true,
+    "audiobook": false
   },
-  {
-  "name": "Max",
-  "age": 27,
-  "city": "New York"
-  },
-  {
-  "name": "Andrew",
-  "age": 14,
-  "city": "New York"
+  "ratings": {
+    "goodreads": 4.2,
+    "amazon": 4.6
   }
-]
 }
+
