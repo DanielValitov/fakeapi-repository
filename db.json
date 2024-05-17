@@ -1,8 +1,10 @@
 {
-  "title": "Преступление и наказание",
-  "author": "Фёдор Достоевский",
-  "published_year": 1866,
-  "genres": ["Роман", "Психологическая драма"],
+  "info": {
+    "title": "Преступление и наказание",
+    "author": "Фёдор Достоевский",
+    "published_year": 1866,
+    "genres": ["Роман", "Психологическая драма"],
+  },
   "available_formats": {
     "hardcover": true,
     "paperback": true,
