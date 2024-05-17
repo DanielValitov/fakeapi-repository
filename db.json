@@ -1,16 +1,16 @@
 {
-  "info": {
+  "info": [
     "title": "Преступление и наказание",
     "author": "Фёдор Достоевский",
-  },
-  "available_formats": {
+  ],
+  "available_formats": [
     "hardcover": true,
     "paperback": true,
-  },
-  "ratings": {
+  ],
+  "ratings": [
     "goodreads": 4.2,
     "amazon": 4.6
-  }
+  ],
 }
 
 
