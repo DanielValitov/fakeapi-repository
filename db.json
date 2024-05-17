@@ -1,16 +1,19 @@
 {
-  "info": [
-    "title": "Преступление и наказание",
-    "author": "Фёдор Достоевский",
-  ],
-  "available_formats": [
-    "hardcover": true,
-    "paperback": true,
-  ],
-  "ratings": [
-    "goodreads": 4.2,
-    "amazon": 4.6
-  ],
+  "people": [
+  {
+  "name": "John",
+  "age": 30,
+  "city": "New York"
+  },
+  {
+  "name": "Max",
+  "age": 27,
+  "city": "New York"
+  },
+  {
+  "name": "Andrew",
+  "age": 14,
+  "city": "New York"
+  }
+]
 }
-
-
